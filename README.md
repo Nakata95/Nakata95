@@ -1,29 +1,23 @@
-<!-- ================= BANNER ================= -->
+<!-- ================= HEADER ================= -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Your%20Name&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Tech+Enthusiast;Always+Learning" />
-</p>
+<h1 align="center">Nakata</h1>
+<h3 align="center">Full Stack Developer | Tech Enthusiast</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on: **Your Project**
-- 🌱 Currently learning: **Your Tech**
-- 👯 Open to collaborate on: **Open-source**
-- ⚡ Passionate about building impactful projects
+- 🔭 Currently working on: **Nothing**
+- 🌱 Currently learning: **Nothing**
+- 💬 Ask me about: **???**
+- ⚡ Fun fact: ???
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,mongodb" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github" />
 </p>
 
 ---
@@ -31,13 +25,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
----
 
+
+---
 ## 🔥 Streak Stats
 
 <p align="center">
@@ -46,10 +40,20 @@
 
 ---
 
-## 📫 Connect With Me
 
-<p align="center">
-<a href="https://linkedin.com/in/your-profile">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
+## 📌 Featured Projects
+
+- 🚀 [Project Name](https://github.com/YOUR_USERNAME/project)
+- 🌐 [Portfolio Website](https://yourwebsite.com)
+- 📱 [Another Project](https://github.com/YOUR_USERNAME/project2)
+
+---
+
+## 📫 Contact
+
+- 💼 LinkedIn: https://linkedin.com/in/your-profile
+- 📧 Email: your@email.com
+
+---
+
+⭐ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
