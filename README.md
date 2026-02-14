@@ -26,6 +26,7 @@
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github" />
+  
 </p>
 
 ---
@@ -35,8 +36,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nakata95&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakata95&layout=compact&theme=tokyonight" />
-
-  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nakata95)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nakata95&show_icons=true&theme=radical)
  
 </p>
 
