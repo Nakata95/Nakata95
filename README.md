@@ -1,4 +1,7 @@
 <!-- ================= HEADER ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=" />
+</p>
 
 <h1 align="center">Nakata</h1>
 <h3 align="center">Full Stack Developer | Tech Enthusiast</h3>
@@ -29,6 +32,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nakata95&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakata95&layout=compact&theme=tokyonight" />
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nakata95)](https://github.com/Nakata95/github-readme-stats)
 </p>
 
 ---
