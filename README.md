@@ -36,7 +36,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Nakata95&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakata95&layout=compact&theme=tokyonight" />
 
-  <img src="https://streak-stats.demolab.com?user=Nakata95&theme=tokyonight"/>
+  
  
 </p>
 
