@@ -1,32 +1,29 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= BANNER ================= -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Your%20Name&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-
-
-
-<h1 align="center">Nakata</h1>
-<h3 align="center">Full Stack Developer | Tech Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Tech+Enthusiast;Always+Learning" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
 - 🔭 Currently working on: **Your Project**
-- 🌱 Currently learning: **???**
-- ⚡ Fun fact: Something interesting about you
-<!-- 👯 Open to collaborate on: **Open-source projects** -->
-<!-- 💬 Ask me about: **Your Tech Stack** -->
-
+- 🌱 Currently learning: **Your Tech**
+- 👯 Open to collaborate on: **Open-source**
+- ⚡ Passionate about building impactful projects
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github" />
-  
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,mongodb" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -34,28 +31,25 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nakata95&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakata95&layout=compact&theme=tokyonight" />
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nakata95)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nakata95&show_icons=true&theme=radical)
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  
 </p>
 
 ---
-<!--
-## 📌 Featured Projects
 
-- 🚀 [Project Name](https://github.com/YOUR_USERNAME/project)
-- 🌐 [Portfolio Website](https://yourwebsite.com)
-- 📱 [Another Project](https://github.com/YOUR_USERNAME/project2)
+## 🔥 Streak Stats
 
----
-
-## 📫 Contact
-
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 📧 Email: your@email.com
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
--->
-⭐ From [Nakata95(https://github.com/Nakata95)
+
+## 📫 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/your-profile">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
