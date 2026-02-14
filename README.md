@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=" />
 </p>
 
-<img src="https://streak-stats.demolab.com?user=Nakata95&theme=tokyonight" />
+
 
 
 <h1 align="center">Nakata</h1>
