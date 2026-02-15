@@ -7,7 +7,8 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on: **Nothing**
+- 🔭 Currently working on: **[Prinny Assistant](https://github.com/Nakata95/PrinnyShimeji
+)**
 - 🌱 Currently learning: **Nothing**
 - 💬 Ask me about: **???**
 - ⚡ Fun fact: ???
