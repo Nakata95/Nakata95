@@ -43,17 +43,17 @@
 
 ## 📌 Featured Projects
 
-- 🚀 [Project Name](https://github.com/YOUR_USERNAME/project)
-- 🌐 [Portfolio Website](https://yourwebsite.com)
-- 📱 [Another Project](https://github.com/YOUR_USERNAME/project2)
+- 🚀 [Project Name](https://github.com/PrinnyShimeji/project)
+<!-- - 🌐 [Portfolio Website](https://yourwebsite.com) -->
+<!-- - 📱 [Another Project](https://github.com/YOUR_USERNAME/project2) -->
 
 ---
 
 ## 📫 Contact
 
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 📧 Email: your@email.com
+<!-- - 💼 LinkedIn: https://linkedin.com/in/your-profile -->
+- 📧 Email: nakatakurogane@gmail.com
 
 ---
 
-⭐ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐ From [Nakata95](https://github.com/Nakata95)
