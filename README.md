@@ -43,7 +43,7 @@
 
 ## 📌 Featured Projects
 
-- 🚀 [Project Name](https://github.com/PrinnyShimeji/project)
+- 🚀 [Project Name]([https://github.com/PrinnyShimeji/project](https://github.com/Nakata95/PrinnyShimeji)
 <!-- - 🌐 [Portfolio Website](https://yourwebsite.com) -->
 <!-- - 📱 [Another Project](https://github.com/YOUR_USERNAME/project2) -->
 
