@@ -7,6 +7,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nakata95&color=blueviolet&style=flat-square" /> 
 </p>
 
+<p align="center">
+  <img src="https://media.tenor.com/-IDjGw89jzYAAAAM/yaiba-samurai.gif" width="200" />
+</p>
+
+
 ## 🚀 About Me
 
 - 🔭 Currently working on: **[Prinny Assistant](https://github.com/Nakata95/PrinnyShimeji
