@@ -11,6 +11,10 @@
   <img src="https://media.tenor.com/-IDjGw89jzYAAAAM/yaiba-samurai.gif" width="200" />
 </p>
 
+<p align="center">
+  <img src="https://imgur.com/VZMMWl8.png" width="80%" /> />
+</p>
+
 
 ## 🚀 About Me
 
@@ -53,3 +57,8 @@
 ---
 
 ⭐ From [Nakata95](https://github.com/Nakata95)
+
+
+<p align="center">
+  <img src="https://imgur.com/74gUsqY.png" width="1200" />
+</p>
