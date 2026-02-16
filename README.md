@@ -36,7 +36,6 @@
   <img src="https://streak-stats.demolab.com?user=Nakata95&theme=tokyonight&&mode=weekl&hide_border=true" />
 </p>
 
----
 
 
 <!-- <p align="center">
