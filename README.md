@@ -20,8 +20,7 @@
 
 - 🔭 Currently working on: **[Prinny Assistant](https://github.com/Nakata95/PrinnyShimeji
 )**
-- 🌱 Currently learning: **Nothing**
-- 💬 Ask me about: **???**
+- 🌱 Currently learning: **Everything possible**
 - ⚡ Fun fact: ???
 
 ---
@@ -52,8 +51,6 @@
 
 <!-- - 💼 LinkedIn: https://linkedin.com/in/your-profile -->
 - 📧 Email: nakatakurogane@gmail.com
-
----
 
 
 <!-- <p align="center">
