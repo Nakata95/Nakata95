@@ -11,10 +11,6 @@
   <img src="https://media.tenor.com/-IDjGw89jzYAAAAM/yaiba-samurai.gif" width="30%" />
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/7hzW1XL.png" width="100%" /> 
-</p>
-
 
 ## 🚀 About Me
 
@@ -60,5 +56,6 @@
 
 
 <p align="center">
-  <img src="https://imgur.com/74gUsqY.png" width="1200" />
+  <img src="https://i.imgur.com/7hzW1XL.png" width="100%" /> 
 </p>
+
