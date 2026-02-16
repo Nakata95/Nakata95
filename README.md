@@ -5,6 +5,8 @@
 </p>
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1BF7B0&width=435&lines=Full+Stack+Developer+%7C+Ramen+Enjoyer" alt="Typing SVG" /></a></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nakata95&color=blueviolet&style=flat-square" /> 
+  <img alt="Static Badge" src="https://img.shields.io/badge/ramen_enjoyer-yellow">
+
 </p>
 
 <p align="center">
