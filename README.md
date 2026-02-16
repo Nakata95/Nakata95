@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/-IDjGw89jzYAAAAM/yaiba-samurai.gif" width="200" />
+  <img src="https://media.tenor.com/-IDjGw89jzYAAAAM/yaiba-samurai.gif" width="30%" />
 </p>
 
 <p align="center">
-  <img src="https://imgur.com/VZMMWl8.png" width="80%" /> />
+  <img src="https://i.imgur.com/7hzW1XL.png" width="100%" /> 
 </p>
 
 
