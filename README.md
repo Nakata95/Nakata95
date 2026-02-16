@@ -39,20 +39,6 @@
 ---
 
 
-## 📌 Featured Projects
-
-- 🚀 [Project Name](https://github.com/PrinnyShimeji/project)
-<!-- - 🌐 [Portfolio Website](https://yourwebsite.com) -->
-<!-- - 📱 [Another Project](https://github.com/YOUR_USERNAME/project2) -->
-
----
-
-## 📫 Contact
-
-<!-- - 💼 LinkedIn: https://linkedin.com/in/your-profile -->
-- 📧 Email: nakatakurogane@gmail.com
-
-
 <!-- <p align="center">
   <img src="https://i.imgur.com/7hzW1XL.png" width="100%" /> 
 </p> -->
