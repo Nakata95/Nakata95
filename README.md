@@ -7,6 +7,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nakata95&color=blueviolet&style=flat-square" /> 
   <img alt="Static Badge" src="https://img.shields.io/badge/ramen_enjoyer-yellow">
 
+
+
 </p>
 
 <p align="center">
@@ -33,7 +35,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Nakata95&theme=tokyonight&&mode=weekl&hide_border=true" />
-   
 </p>
 
 ---
@@ -54,10 +55,8 @@
 
 ---
 
-⭐ From [Nakata95](https://github.com/Nakata95)
 
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.imgur.com/7hzW1XL.png" width="100%" /> 
-</p>
+</p> -->
 
