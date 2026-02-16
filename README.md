@@ -11,9 +11,9 @@
 
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.tenor.com/-IDjGw89jzYAAAAM/yaiba-samurai.gif" width="30%" />
-</p>
+</p> -->
 
 
 ## 🚀 About Me
