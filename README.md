@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2500&pause=1000&color=FF1244&center=true&vCenter=true&width=600&lines=DRAGON;FULL-STACK+DEV;ACCESSING...;DOSSIER+OUVERT" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2500&pause=1000&color=FF1244&center=true&vCenter=true&width=600&lines=Nakata95;FULL-STACK+DEV;ACCESSING...;DOSSIER+OUVERT" alt="Typing SVG" />
 
 ![Static Badge](https://img.shields.io/badge/STATUS-DISPONIBLE-FF1244?style=for-the-badge&labelColor=0d0616)
 ![Static Badge](https://img.shields.io/badge/BASE-PARIS%2C%20FR-2AF0E8?style=for-the-badge&labelColor=0d0616)
