@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./assets/nakata-header.svg" alt="Nakata95 — Developer" width="100%">
+  <img src="http://i.pinimg.com/736x/1f/31/48/1f31484eb94a802f5d6065b7b059435e.jpg" alt="Nakata95 — Developer" width="100%">
 </p>
 
 <p align="center">
