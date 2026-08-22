@@ -63,7 +63,7 @@ I like experimenting, breaking things, fixing them, and learning something new a
 
 ## 🏯 作品 — Projects
 
-### ⛩️ Kobushi8
+### ⛩️ Kobushi8 (paused)
 
 **Tekken 8 documentation & knowledge base**
 
@@ -78,7 +78,7 @@ A documentation project dedicated to understanding and mastering **Tekken 8**.
 
 ---
 
-### 🐉 DGM
+### 🐉 DGM (in progress)
 
 **Desktop Digimon companion**
 
@@ -104,9 +104,8 @@ I also develop Discord bots for games, communities and experimental projects.
 
 ```text
 Kagura
-AniCard
-Tekken Bot
-Fate / Holy Grail War
+AniCard - Trading Card Game based on Anime/Manga. (paused)
+Fate/Bot Order - A strategy game based on Fate Series. (In progress)
 ```
 
 ---
@@ -154,7 +153,7 @@ Fate / Holy Grail War
 </p>
 
 <p align="center">
-  <sub>「 七転び八起き 」</sub><br>
+  <!-- <sub>「 七転び八起き 」</sub><br> -->
   <sub>Fall seven times, stand up eight.</sub>
 </p>
 
