@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="http://i.pinimg.com/736x/1f/31/48/1f31484eb94a802f5d6065b7b059435e.jpg" alt="Nakata95 — Developer" width="100%">
+  <img src="http://i.pinimg.com/736x/1f/31/48/1f31484eb94a802f5d6065b7b059435e.jpg" alt="Nakata95 — Developer" width="50%">
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 > **「 道は一歩ずつ 」**
 > *The path is walked one step at a time.*
 
-I'm **Nakata95**, a developer who enjoys turning ideas into things that actually work.
+I'm developer who enjoys turning ideas into things that actually work.
 
 I mainly build **web applications, desktop tools, Discord bots and game-related projects**.
 
