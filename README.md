@@ -1,3 +1,6 @@
+<p align="center"><h1 align="center">Nakata95</h1>  </p>
+
+
 
 <p align="center">
   <img src="http://i.pinimg.com/736x/1f/31/48/1f31484eb94a802f5d6065b7b059435e.jpg" alt="Nakata95 — Developer" width="50%">
@@ -157,6 +160,6 @@ Fate/Bot Order - A strategy game based on Fate Series. (In progress)
   <sub>Fall seven times, stand up eight.</sub>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/seigaiha.svg" alt="Seigaiha pattern" width="100%">
-</p>
+</p> -->
