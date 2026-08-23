@@ -87,6 +87,12 @@ A documentation project dedicated to understanding and mastering **Tekken 8**.
 
 A desktop companion inspired by virtual pets and Shimeji applications.
 
+<p>  <a href="LIEN_DGM">
+    <img src="https://i.imgur.com/IzJp22R.png" width="45%">
+  </a>
+  </p>
+
+
 ```text
 Digimon
    │
