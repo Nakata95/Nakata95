@@ -17,7 +17,7 @@
 
 ---
 
-## ⛩️ 旅路 — About Me
+## ⛩️ About Me
 
 > **「 道は一歩ずつ 」**
 > *The path is walked one step at a time.*
@@ -64,7 +64,7 @@ I like experimenting, breaking things, fixing them, and learning something new a
 
 ---
 
-## 🏯 作品 — Projects
+## 🏯 Projects
 
 ### ⛩️ Kobushi8 (paused)
 
@@ -112,7 +112,6 @@ Built with **Python + PyQt5**.
 I also develop Discord bots for games, communities and experimental projects.
 
 ```text
-Kagura
 AniCard - Trading Card Game based on Anime/Manga. (paused)
 Fate/Bot Order - A strategy game based on Fate Series. (In progress)
 ```
@@ -134,7 +133,7 @@ Fate/Bot Order - A strategy game based on Fate Series. (In progress)
 
 ---
 
-## 🌸 現在 — Currently
+## 🌸 Currently
 
 ```text
 ┌──────────────────────────────────────────────┐
@@ -153,7 +152,7 @@ Fate/Bot Order - A strategy game based on Fate Series. (In progress)
 
 ---
 
-## 🏮 縁 — Find Me
+## 🏮 Find Me
 
 <p align="center">
   <a href="https://github.com/Nakata95">
