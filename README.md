@@ -107,6 +107,34 @@ Built with **Python + PyQt5**.
 
 ---
 
+### 🃏 AniCard Battle (in progress)
+
+**Anime & manga trading card game — Windows & Android**
+
+A collectible card game inspired by **Shadowverse**, built around anime and manga universes. Build a deck, open
+boosters, climb through dungeons and puzzles, and duel the AI or other players online.
+
+<p>
+  <a href="https://github.com/Nakata95/acb-releases/releases/latest">
+    <img src="https://img.shields.io/badge/Download-AniCard%20Battle-A51C30?style=for-the-badge&logo=github&logoColor=F4EBDD">
+  </a>
+</p>
+
+```text
+AniCard Battle
+   │
+   ├── Battles — AI opponents & online multiplayer
+   ├── Zenkai — evolution, Last Breath, counter tactics
+   ├── Dungeons & puzzles
+   ├── Deck builder, boosters & collection
+   ├── Discord login, quests, achievements, friends
+   └── Auto-updater with SHA-256 check
+```
+
+Built with **Python + Pygame**, **Supabase** for accounts and data, packaged for **Windows (exe)** and **Android (APK)**.
+
+---
+
 ### 🎴 Discord Bots
 
 I also develop Discord bots for games, communities and experimental projects.
