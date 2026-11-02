@@ -111,11 +111,11 @@ Built with **Python + PyQt5**.
 
 **Anime & manga trading card game — Windows & Android**
 
-A collectible card game inspired by **Shadowverse**, built around anime and manga universes. Build a deck, open
+A collectible card game inspired by **Shadowverse** and **Heartstone**, built around anime and manga universes. Build a deck, open
 boosters, climb through dungeons and puzzles, and duel the AI or other players online.
 
 <p>
-  <a href="https://github.com/Nakata95/acb-releases/releases/latest">
+  <a href="https://nakata95.github.io/anicard-battle-website/">
     <img src="https://img.shields.io/badge/Download-AniCard%20Battle-A51C30?style=for-the-badge&logo=github&logoColor=F4EBDD">
   </a>
 </p>
